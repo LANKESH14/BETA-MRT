@@ -1,4 +1,5 @@
 **Collatz Conjecture Analysis and Visualization Toolkit**
+
 Project Overview:
 This repository comprises two Python-based GUI applications developed to investigate and visualize the Collatz Conjecture—a long-standing open problem in mathematics. Through intuitive user interfaces and integrated data visualization, these tools enable real-time exploration of numeric behavior under the Collatz transformation. The project blends computational mathematics with statistical analysis and offers a hands-on platform for both educational and research-oriented pursuits.
 
